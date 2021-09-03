@@ -1,4 +1,3 @@
-import copy
 import re
 
 bag_rules = {}
